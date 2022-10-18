@@ -1,0 +1,56 @@
+.creed1 {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 13px;
+    color: #ee4c7c;
+    animation: fadein 1s 1;
+    }
+    
+    @keyframes fadein {
+      from{ opacity: 0; }
+      to { opacity: 1; }
+  }  
+  
+  @keyframes color {
+      0% {color: #39f;}
+       25% {color: #8bc5d1;}
+       50% {color: #f8cb4a;}
+       75% {color: #8bc5d1;}
+      100% {color: #39f;}
+  }
+  
+  .creed2 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 13px;
+    color: #ee4c7c;
+    animation: fadein 1s 1;
+    }
+    
+    @keyframes fadein {
+      from{ opacity: 0; }
+      to { opacity: 1; }
+  }  
+  
+  .creed3 {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 13px;
+    color: #ee4c7c;
+    animation: fadein 1s 1;
+    }
+    
+    @keyframes fadein {
+      from{ opacity: 0; }
+      to { opacity: 1; }
+  }  
+  
